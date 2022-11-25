@@ -5,6 +5,7 @@ ip = 'localhost'
 port = 50001
 
 #안녕하세요
+# 안녕 안녕 굳모닝 테스트서버 채팅 서버
 # 스레드에서 데이터(자원) 경쟁을 막음
 lock = threading.Lock()
 
