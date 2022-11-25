@@ -5,6 +5,9 @@ ip = "localhost"
 port = 50001
 
 #데이터 수신 함수
+#데이터 수신 함수
+#데이터 수신 함수
+#데이터 수신 함수
 def receive(client_socket):
     state = True
 
