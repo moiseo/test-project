@@ -4,6 +4,7 @@ import threading # 스레드(Thread) 모듈
 ip = 'localhost'
 port = 50001
 
+#안녕하세요
 # 스레드에서 데이터(자원) 경쟁을 막음
 lock = threading.Lock()
 
